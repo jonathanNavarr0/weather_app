@@ -1,68 +1,96 @@
-# 🌤️ Weather App - App de Clima en Flutter
+<div align="center">
 
-Esta es una aplicación móvil desarrollada con **Flutter** que permite consultar el clima actual de cualquier ciudad del mundo, utilizando la API de [OpenWeatherMap](https://openweathermap.org/).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Weather%20App%20🌦️&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
 
-![Flutter](https://img.shields.io/badge/Flutter-3.24.3-blue?logo=flutter)
-![API](https://img.shields.io/badge/API-OpenWeatherMap-orange?logo=openweathermap)
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+<p>
+  <a href="https://github.com/jonathanNavarr0/weather_app">
+    <img src="https://img.shields.io/github/stars/jonathanNavarr0/weather_app?style=flat-square&color=success" />
+  </a>
+  <img src="https://img.shields.io/badge/Hecho%20con-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-OpenWeatherMap-orange?style=flat-square&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=flat-square" />
+</p>
 
----
+<h2>Consulta el clima actual de cualquier ciudad del mundo en tiempo real ☁️🌍</h2>
 
-## ✨ Características
-
-- 🔍 Buscar el clima por nombre de ciudad.
-- 🌡️ Ver temperatura actual en grados Celsius.
-- ☁️ Descripción del clima (nublado, soleado, etc).
-- 🔁 Consumo de API en tiempo real.
-- 📱 Interfaz simple y amigable con Material Design.
-
----
-
-## 🧠 Tecnologías utilizadas
-
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
-- [OpenWeatherMap API](https://openweathermap.org/api)
-- [HTTP package](https://pub.dev/packages/http)
+</div>
 
 ---
 
-## 🧪 ¿Cómo probar esta app?
+## 🌦️ ¿Qué hace esta app?
 
-1. Clona el repositorio:
+| Funcionalidad                              | Descripción                                                  |
+|-------------------------------------------|--------------------------------------------------------------|
+| 🔍 Buscar ciudad                           | Puedes ingresar cualquier ciudad para ver su clima actual.   |
+| 🌡️ Ver temperatura                         | Muestra la temperatura en grados Celsius.                    |
+| ☁️ Ver descripción del clima               | Nublado, soleado, lluvia, etc.                               |
+| 🔄 Datos en tiempo real                    | Usando la API de OpenWeatherMap.                             |
+| 📱 UI moderna y amigable                   | Basada en Flutter con diseño limpio y responsive.            |
 
-   git clone https://github.com/jonathanNavarr0/weather_app.git  
-   cd weather_app
+---
 
-2. Instala dependencias:
+## ⚙️ Instalación
 
-   flutter pub get
+### 1. Clona el proyecto
 
-3. Corre la app:
+git clone https://github.com/jonathanNavarr0/weather_app.git  
+cd weather_app
 
-   flutter run
+### 2. Instala las dependencias
 
-💡 Asegúrate de tener un dispositivo o emulador Android/iOS configurado.
+flutter pub get
+
+### 3. Ejecuta la app
+
+flutter run
+
+💡 Asegúrate de tener un emulador o dispositivo físico conectado.
+
+---
+
+## 🖼️ Ejemplo en acción
+
+🔎 Ciudad: Santiago  
+🌡️ Temperatura: 21°C  
+☁️ Estado: Parcialmente nublado
+
+---
+
+## 📦 Tecnologías utilizadas
+
+- Flutter + Dart  
+- OpenWeatherMap API  
+- HTTP Package  
+
+---
+
+## 🚀 Próximas mejoras
+
+- 🌍 Geolocalización automática  
+- 🌧️ Íconos personalizados por clima  
+- 🌑 Modo oscuro  
+- 📲 Subir a Google Play  
 
 ---
 
 
----
 
-## 📦 Próximas mejoras
+## 📜 Licencia
 
-- 🌍 Geolocalización automática.
-- 🎨 Modo oscuro.
-- 🌧️ Iconos personalizados según el clima.
-- 📲 Publicar en Google Play.
+Este proyecto está bajo la Licencia MIT.
 
 ---
 
-## 📫 Contacto
+## ✨ Autor
 
-Creado por [Jonathan Navarro](https://github.com/jonathanNavarr0)  
-Instagram: [@jona_nnavarro](https://www.instagram.com/jona_nnavarro/)
+Desarrollado con 💙 por [Jonathan Navarro](https://github.com/jonathanNavarr0)  
+📸 Instagram: [@jona_nnavarro](https://www.instagram.com/jona_nnavarro/)
 
 ---
 
-## ⭐ ¡Dale una estrella si te gustó!
+<div align="center">
+
+¿Te gustó esta app?  
+⭐ ¡Dale una estrella en GitHub y compártela con tus colegas devs! ⭐
+
+</div>
