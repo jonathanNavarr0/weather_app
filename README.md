@@ -46,10 +46,6 @@ Esta es una aplicación móvil desarrollada con **Flutter** que permite consulta
 
 ---
 
-## 📷 Capturas (opcional)
-
-> Aquí puedes agregar imágenes de la app en uso.  
-> Ejemplo: ![screenshot](screenshots/screenshot1.png)
 
 ---
 
